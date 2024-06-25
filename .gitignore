@@ -1,4 +1,6 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+# Ignore all files in the data/raw directory
+data/raw/
+
+# Ignore specific file types
+*.csv
+*.txt
